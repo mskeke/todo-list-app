@@ -8,4 +8,4 @@
 This project is open source and free to use.
 ## 🔗 Live Demo
 
-[Click here to view the To-Do List App](https://mskeke.github.io/repository-todo list app/)
+[Click here to view the To-Do List App](https://mskeke.github.io/repository-todolistapp/)
